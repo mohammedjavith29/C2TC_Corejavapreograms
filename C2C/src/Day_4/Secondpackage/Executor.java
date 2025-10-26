@@ -1,5 +1,5 @@
 package Day_4.Secondpackage;
-import firstpackage.Base;
+import Day_4.Firstpackage.Base;
 public class Executor {
 	public static void main(String[] args) {
 		// accessing different package class

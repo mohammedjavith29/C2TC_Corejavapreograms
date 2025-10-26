@@ -1,4 +1,4 @@
-package Thirdpackage;
+package Day_4.ThirdPackage;
 
 public class PrivateConstructorDemo {
 		public static void main(String s[]) {

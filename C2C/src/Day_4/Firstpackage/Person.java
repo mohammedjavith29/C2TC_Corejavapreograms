@@ -1,4 +1,4 @@
-package firstpackage;
+package Day_4.Firstpackage;
 
 public class Person {
 private String personName;
